@@ -1,0 +1,39 @@
+{
+  "payments": [
+    {
+      "worker_id": 1,
+      "worker_name": "Julie",
+      "total_payment": 540,
+      "commission": 27.0,
+      "total_payment_with_commission": 567.0
+    },
+    {
+      "worker_id": 2,
+      "worker_name": "Marc",
+      "total_payment": 810,
+      "commission": 40.5,
+      "total_payment_with_commission": 850.5
+    },
+    {
+      "worker_id": 3,
+      "worker_name": "Antoine",
+      "total_payment": 0,
+      "commission": 0.0,
+      "total_payment_with_commission": 0.0
+    },
+    {
+      "worker_id": 4,
+      "worker_name": "Emilie",
+      "total_payment": 810,
+      "commission": 40.5,
+      "total_payment_with_commission": 850.5
+    },
+    {
+      "worker_id": 5,
+      "worker_name": "Lea",
+      "total_payment": 1920,
+      "commission": 96.0,
+      "total_payment_with_commission": 2016.0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "payments": [
+    {
+      "worker_id": 1,
+      "worker_name": "Julie",
+      "total_payment": 270
+    },
+    {
+      "worker_id": 2,
+      "worker_name": "Marc",
+      "total_payment": 810
+    },
+    {
+      "worker_id": 3,
+      "worker_name": "Antoine",
+      "total_payment": 0
+    },
+    {
+      "worker_id": 4,
+      "worker_name": "Emilie",
+      "total_payment": 810
+    }
+  ]
+}
